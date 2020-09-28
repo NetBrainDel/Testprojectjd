@@ -3,7 +3,15 @@
 <head>
     <title>Start Page</title>
 </head>
-<body>
 Start Page
+<br/>
+<br/>
+<a href="http://localhost:8080/test/Hello">Hello</a>
+<br/>
+<br/>
+<a href="http://localhost:8080/test/HowAreYou">HowAreYou</a>
+<br/>
+<br/>
+<a href="http://localhost:8080/test/Bye">Bye</a>
 </body>
 </html>

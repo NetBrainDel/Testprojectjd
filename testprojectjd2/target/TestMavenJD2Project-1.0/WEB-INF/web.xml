@@ -17,35 +17,35 @@
 
     <servlet>
         <servlet-name>HelloWeb</servlet-name>
-        <jsp-file>/WEB-INF/jsp/hello.jsp</jsp-file>
+        <jsp-file>/WEB-INF/jsp/Hello.jsp</jsp-file>
     </servlet>
 
     <servlet>
         <servlet-name>ByeByeWeb</servlet-name>
-        <jsp-file>/WEB-INF/jsp/bye.jsp</jsp-file>
+        <jsp-file>/WEB-INF/jsp/Bye.jsp</jsp-file>
     </servlet>
 
     <servlet>
         <servlet-name>HowAreYouWeb</servlet-name>
-        <jsp-file>/WEB-INF/jsp/howareyou.jsp</jsp-file>
+        <jsp-file>/WEB-INF/jsp/HowAreYou.jsp</jsp-file>
     </servlet>
 
     <servlet-mapping>
         <servlet-name>HelloWeb</servlet-name>
-        <url-pattern>/hello</url-pattern>
+        <url-pattern>/Hello</url-pattern>
     </servlet-mapping>
 
     <!--    localhost:8080/application/hello-->
 
     <servlet-mapping>
         <servlet-name>ByeByeWeb</servlet-name>
-        <url-pattern>/bye</url-pattern>
+        <url-pattern>/Bye</url-pattern>
     </servlet-mapping>
     <!--    localhost:8080/application/bye-->
 
     <servlet-mapping>
         <servlet-name>HowAreYouWeb</servlet-name>
-        <url-pattern>/howareyou</url-pattern>
+        <url-pattern>/HowAreYou</url-pattern>
     </servlet-mapping>
     <!--    localhost:8080/application/HowAreYou-->
 
