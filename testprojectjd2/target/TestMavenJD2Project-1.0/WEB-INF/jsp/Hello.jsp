@@ -6,7 +6,9 @@
 <body>
 Hello JSP!
 <br/>
+<br/>
 <a href="http://localhost:8080/test/HowAreYou">HowAreYou</a>
+<br/>
 <br/>
 <a href="http://localhost:8080/test/">Start Page</a>
 </body>
