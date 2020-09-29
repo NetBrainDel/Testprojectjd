@@ -9,13 +9,13 @@ Start Page
 <br/>
 <br/>
 <form action="Hello">
-   <button button="http://localhost:8080/test/Hello">Hello</button>
+   <button button="Hello">Hello</button>
 </form>
 <form action="HowAreYou">
-    <button button="http://localhost:8080/test/HowAreYou">HowAreYou</button>
+    <button button="HowAreYou">HowAreYou</button>
 </form>
 <form action="Bye">
-    <button button="http://localhost:8080/test/Bye">Bye</button>
+    <button button="Bye">Bye</button>
 </form>
 </body>
 </html>
