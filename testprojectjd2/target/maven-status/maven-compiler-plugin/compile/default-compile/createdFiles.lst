@@ -1,2 +1,5 @@
+com\noirix\filter\AuthHeaderFilter.class
+com\noirix\filter\CharsetFilter.class
 com\noirix\controller\FrontController.class
 com\noirix\Main.class
+com\noirix\listener\CustomContextListener.class
