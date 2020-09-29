@@ -4,12 +4,16 @@
     <title>Hello</title>
 </head>
 <body>
+<br/>
 Hello JSP!
 <br/>
 <br/>
-<a href="http://localhost:8080/test/HowAreYou">HowAreYou</a>
+<form action="HowAreYou">
+    <button button="http://localhost:8080/test/HowAreYou">HowAreYou</button>
+</form>
 <br/>
-<br/>
-<a href="http://localhost:8080/test/">Start Page</a>
+<form action="index.jsp">
+    <button button="http://localhost:8080/test/">Start Page</button>
+</form>
 </body>
 </html>

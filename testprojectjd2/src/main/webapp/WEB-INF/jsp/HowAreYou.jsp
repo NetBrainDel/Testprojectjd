@@ -4,9 +4,12 @@
     <title>HowAreYou</title>
 </head>
 <body>
+<br/>
 <a href="https://ru.wiktionary.org/wiki/%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%BE">Good!</a>
 <br/>
 <br/>
-<a href="http://localhost:8080/test/">Start Page</a>
+<form action="index.jsp">
+    <button button="http://localhost:8080/test/">Start Page</button>
+</form>
 </body>
 </html>

@@ -4,9 +4,12 @@
     <title>Bye</title>
 </head>
 <body>
+<br/>
 Bye-bye!
 <br/>
 <br/>
-<a href="http://localhost:8080/test/">Start Page</a>
+<form action="index.jsp">
+    <button button="http://localhost:8080/test/">Start Page</button>
+</form>
 </body>
 </html>
